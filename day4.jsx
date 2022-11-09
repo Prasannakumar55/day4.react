@@ -48,7 +48,7 @@
 
     6 . What are React Life cycles Explain each one with Example ? 
 
-    The three phases are: 
+    The three phases are : 
     Mounting, Updating, and Unmounting.
 
     Mounting : 
